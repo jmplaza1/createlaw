@@ -1,6 +1,7 @@
 {
   "name": "CREATE LAW",
-  "area": "CEO",
+  "area": "Let's See where this does",
+  "profileUrl": "http://example.com/employee/profile",
   "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
@@ -8,7 +9,7 @@
     "type": "business",
     "value": "Business first"
   },
-  "positionName": "Main Topic",
+  "positionName": "Cheaf Executive Officer ",
   "children": [
     {
       "name": "Davolio Nancy",
