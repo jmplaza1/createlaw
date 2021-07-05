@@ -1,7 +1,6 @@
 {
   "name": "CREATE LAW",
-  "area": "Let's See where this does",
-  "profileUrl": "http://example.com/employee/profile",
+  "area": "Republic Act",
   "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
@@ -9,7 +8,7 @@
     "type": "business",
     "value": "Business first"
   },
-  "positionName": "Cheaf Executive Officer ",
+  "positionName": "Main Topic",
   "children": [
     {
       "name": "Davolio Nancy",
