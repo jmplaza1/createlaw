@@ -22274,6 +22274,50 @@
           ]
         }
       ]
-    }
+    }  {
+      "name": " Percentage Tax",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business four "
+      },
+      "positionName": "CTO ",
+      "children": [
+        {
+          "name": "Peter Wilson",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Staf",
+            "desc":"Staff Department Description"
+          },
+          "positionName": "Head of channels",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Staf"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        },
   ]
 }
