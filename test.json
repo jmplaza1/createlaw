@@ -7,7 +7,7 @@
   "unit": {
     "type": "business",
     "value": "Corporate Recovery and Tax Incentives for Enterprises"
-  },
+          },
   "positionName": "RA 11534 - Corporate Recovery and Tax Incentives for Enterprises",
   "children": [
             {
@@ -34,7 +34,8 @@
                                         "unit": {
                                           "type": "business",
                                           "value": " "
-                                          } , "positionName": "Changes",
+                                          } , 
+                                          "positionName": "Changes",
                                         "children":[]
                                       }, 
                                           {
@@ -91,8 +92,8 @@
                                   "positionName": "Changes",
                                         "children":[]
                                       }
-                                        ]
-                                      },
+                      ]
+                      },
             {
               "name": "Resident Foreign Corporations",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -104,7 +105,8 @@
               "unit": {
                 "type": "business",
                 "value": " "
-            } , "positionName": "Changes",
+            } , 
+            "positionName": "Changes",
               "children": [
                                       {
                                     "name": "Regular Corporate Income Tax",
@@ -173,8 +175,8 @@
                               "positionName": "Changes",
                                     "children":[]
                                   }
-                                    ]
-                                  },
+                      ]
+                      },
             {
               "name": "Non-Resident Foreign Corporations",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -186,7 +188,7 @@
               "unit": {
                 "type": "business",
                 "value": " "
-              },
+                      },
               "positionName": "Changes",
               "children": [ 
                                   {
@@ -230,7 +232,6 @@
                               }
           ]
             },
-
             {
               "name": "Value Added Tax",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -297,7 +298,7 @@
               "unit": {
                 "type": "business",
                 "value": " "
-              },
+                      },
               "positionName": "Changes",
               "children": [
                                      {
@@ -313,7 +314,7 @@
                                           } , 
                                   "positionName": "Changes",
                                   "children":[]
-                                        }, 
+                                        }
                             ]
             }
           ]
