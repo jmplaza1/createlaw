@@ -1,6 +1,8 @@
 {
   "name": "CREATE LAW",
+    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
   "area": "RA 11534",
+        "profileUrl": "http://example.com/employee/profile",
     "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
@@ -8,7 +10,7 @@
     "type": "business",
     "value": "Business first"
   },
-  "positionName": "Republic Act 11534",
+  "positionName": "` Act 11534",
   "children": [
     {
       "name": "Domestic Corporations",
