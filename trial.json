@@ -10,7 +10,7 @@
     "type": "business",
     "value": "Business first"
   },
-  "positionName": "RA 15534 ",
+  "positionName": "Cheaf Executive Officer ",
   "children": [
     {
       "name": "Domestic Corporations",
@@ -11955,7 +11955,7 @@
       ]
     },
     {
-      "name": " Foreign Domestic Corporations",
+      "name": " Foreign Corporations",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -18037,7 +18037,7 @@
       ]
     },
     {
-      "name": " Non Resident Foreign Corporations",
+      "name": " Value Added Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -20141,7 +20141,7 @@
       ]
     },
     {
-      "name": " Value Added Tax",
+      "name": " Percentage Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
