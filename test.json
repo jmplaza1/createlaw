@@ -1,79 +1,79 @@
 {
   "name": "CREATE Law",
-  "positionName": "RA 11534 - Corporate Recovery and Tax Incentives for Enterprises",
+  "details": "RA 11534 - Corporate Recovery and Tax Incentives for Enterprises",
   "children": [
             {
               "name": "Domestic Corporations",
-              "positionName": "Changes ",
+              "details": "Changes ",
               "children": [
                                           {
                                         "name": "Regular Corporate Income Tax",
-                                          "positionName": "Changes",
+                                          "details": "Changes",
                                         "children":[
                                           
                                                      {
                                         "name": "Before",
-                                                                                 "positionName": "30%",
+                                                                                 "details": "30%",
                                         "children":[]
                                       },  {
                                         "name": "CREATE Law",
-                                        "positionName": "Starting July 2020, 25% or 20%, subject to the following conditions: \n (1) Net taxable income is not more than P5M, and \n (2) Total Assets not more than P100M",
+                                        "details": "Starting July 2020, 25% or 20%, subject to the following conditions: \n (1) Net taxable income is not more than P5M, and \n (2) Total Assets not more than P100M",
                                         "children":[]
                                       }
                                         ]
                                       }, 
                                           {
                                         "name": "Minimum Corporate Income Tax",
-                                        "positionName": "Changes",
+                                        "details": "Changes",
                                         "children":[
                                            {
                                         "name": "Before",
-                                        "positionName": "2%",
+                                        "details": "2%",
                                         "children":[]
                                       },
                                        {
                                         "name": "CREATE Law",
-                                        "positionName": "1%, July 1, 2020 to July 30, 2023",
+                                        "details": "1%, July 1, 2020 to July 30, 2023",
                                         "children":[]
                                       }
                                         ]
                                       },   
                                       {
                                         "name": "Deductions from Gross Income",
-                                        "positionName": "Changes",
+                                        "details": "Changes",
                                         "children":[
                                                                      {
                                         "name": "Before",
-                                        "positionName": "Non-deductible interest expense: 33% of interest income subject to final tax",
+                                        "details": "Non-deductible interest expense: 33% of interest income subject to final tax",
                                         "children":[]
                                       },
                                                                  {
                                         "name": "CREATE Law",
-                                        "positionName": "(1) Additional 50% deduction for labor training expense. (2) Non-deductible interest expense: 20% of interest income subject to final tax",
+                                        "details": "(1) Additional 50% deduction for labor training expense. (2) Non-deductible interest expense: 20% of interest income subject to final tax",
                                         "children":[]
                                       }
                                         ]
                                       },   
                                       {
                                         "name": "IAET",
-                                         "positionName": "Improperly Accumulated Earnings Tax - Changes",
+                                         "details": "Improperly Accumulated Earnings Tax - Changes",
                                         "children":[]
                                       },   
                                       {
                                         "name": "PEIH",
-                                        "positionName": "Proprietary Educational Institutions and Hospitals - Changes",
+                                        "details": "Proprietary Educational Institutions and Hospitals - Changes",
                                         "children":[]
                                       },   
                                       {
                                         "name": "Intercorporate Dividends",
-                                        "positionName": "Changes",
+                                        "details": "Changes",
                                         "children":[]
                                       }
                       ]
                       },
             {
               "name": "Resident Foreign Corporations",
-              "positionName": "Changes",
+              "details": "Changes",
               "children": [
                                       {
                                     "name": "Regular Corporate Income Tax",
@@ -85,7 +85,7 @@
                                     "unit": {
                                       "type": "business",
                                       "value": " "
-                                      } , "positionName": "Changes",
+                                      } , "details": "Changes",
                                     "children":[]
                                   }, 
                                       {
@@ -99,7 +99,7 @@
                                       "type": "business",
                                       "value": " "
                                            } , 
-                                    "positionName": "Changes",
+                                    "details": "Changes",
                                     "children":[]
                                   },   
                                   {
@@ -109,7 +109,7 @@
                                     "office": " ",
                                     "tags": "Ceo,tag1, tag2",
                                     "isLoggedUser": false,
-                              "positionName": "Changes",
+                              "details": "Changes",
                                     "children":[]
                                   },   
                                   {
@@ -119,7 +119,7 @@
                                     "office": " ",
                                     "tags": "Ceo,tag1, tag2",
                                     "isLoggedUser": false,
-                              "positionName": "Changes",
+                              "details": "Changes",
                                     "children":[]
                                   },   
                                   {
@@ -129,7 +129,7 @@
                                     "office": " ",
                                     "tags": "Ceo,tag1, tag2",
                                     "isLoggedUser": false,
-                              "positionName": "Changes",
+                              "details": "Changes",
                                     "children":[]
                                   },   
                                   {
@@ -139,7 +139,7 @@
                                     "office": " ",
                                     "tags": "Ceo,tag1, tag2",
                                     "isLoggedUser": false,
-                              "positionName": "Changes",
+                              "details": "Changes",
                                     "children":[]
                                   }
                       ]
@@ -156,7 +156,7 @@
                 "type": "business",
                 "value": " "
                       },
-              "positionName": "Changes",
+              "details": "Changes",
               "children": [ 
                                   {
                                 "name": "Regular Corporate Income Tax",
@@ -168,7 +168,7 @@
                                 "unit": {
                                   "type": "business",
                                   "value": " "
-                                  } , "positionName": "Changes",
+                                  } , "details": "Changes",
                                 "children":[]
                               }, 
                                {
@@ -181,7 +181,7 @@
                                 "unit": {
                                   "type": "business",
                                   "value": " "
-                                  } , "positionName": "Changes",
+                                  } , "details": "Changes",
                                 "children":[]
                               }, 
                            {
@@ -194,7 +194,7 @@
                                 "unit": {
                                   "type": "business",
                                   "value": " "
-                                  } , "positionName": "Changes",
+                                  } , "details": "Changes",
                                 "children":[]
                               }
           ]
@@ -211,7 +211,7 @@
                 "type": "business",
                 "value": " "
               },
-              "positionName": "Changes",
+              "details": "Changes",
               "children": [
                                      {
                                   "name": "Books, Any Newspaper, Magazine",
@@ -223,7 +223,7 @@
                                   "unit": {
                                     "type": "business",
                                     "value": " "
-                                    } , "positionName": "Changes",
+                                    } , "details": "Changes",
                                   "children":[]
                                 }, 
                                  {
@@ -236,7 +236,7 @@
                                   "unit": {
                                     "type": "business",
                                     "value": " "
-                                    } , "positionName": "Changes",
+                                    } , "details": "Changes",
                                   "children":[]
                                 }, 
                                  {
@@ -249,7 +249,7 @@
                                   "unit": {
                                     "type": "business",
                                     "value": " "
-                                    } , "positionName": "Changes",
+                                    } , "details": "Changes",
                                   "children":[]
                                 }
                           ]
@@ -266,7 +266,7 @@
                 "type": "business",
                 "value": " "
                       },
-              "positionName": "Changes",
+              "details": "Changes",
               "children": [
                                      {
                                   "name": "Persons Exempt from VAT",
@@ -279,7 +279,7 @@
                                     "type": "business",
                                     "value": " "
                                           } , 
-                                  "positionName": "Changes",
+                                  "details": "Changes",
                                   "children":[]
                                         }
                             ]
