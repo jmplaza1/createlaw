@@ -22,7 +22,76 @@
         "type": "business",
         "value": " "
       },
-      "positionName": "Changes "
+      "positionName": "Changes ",
+      "children": [
+        {
+      "name": "Regular Corporate Income Tax",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": " "
+        } , "positionName": "Changes",
+      "children":[]
+    }, 
+        {
+      "name": "Minimum Corporate Income Tax",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": " "
+             } , 
+      "positionName": "Changes",
+      "children":[]
+    },   
+    {
+      "name": "Deductions from Gross Income",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Changes",
+      "children":[]
+    },   
+    {
+      "name": "IAET",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Improperly Accumulated Earnings Tax - Changes",
+      "children":[]
+    },   
+    {
+      "name": "PEIH",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Proprietary Educational Institutions and Hospitals - Changes",
+      "children":[]
+    },   
+    {
+      "name": "Intercorporate Dividends",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Changes",
+      "children":[]
+    }
+      ]
     },
     {
       "name": "Resident Foreign Corporations",
@@ -66,6 +135,36 @@
     },   
     {
       "name": "Deductions from Gross Income",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Changes",
+      "children":[]
+    },   
+    {
+      "name": "ROHQs",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Changes",
+      "children":[]
+    },   
+    {
+      "name": "OBUs",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+"positionName": "Changes",
+      "children":[]
+    },   
+    {
+      "name": "Final Tax on Passive Income",
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
