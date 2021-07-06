@@ -16,7 +16,7 @@
               "area": "",
               "profileUrl": "http://example.com/employee/profile",
               "office": " ",
-              "tags": "Ceo,tag1, tag2",
+
               "isLoggedUser": false,
               "unit": {
                 "type": "business",
@@ -79,7 +79,36 @@
                                           "value": " "
                                                } , 
                                         "positionName": "Changes",
+                                        "children":[
+                                           {
+                                        "name": "Before",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                        "unit": {
+                                          "type": "business",
+                                          "value": " "
+                                               } , 
+                                        "positionName": "2%",
                                         "children":[]
+                                      },
+                                       {
+                                        "name": "CREATE Law",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+
+                                        "isLoggedUser": false,
+                                        "unit": {
+                                          "type": "business",
+                                          "value": " "
+                                               } , 
+                                        "positionName": "1%, July 1, 2020 to July 30, 2023",
+                                        "children":[]
+                                      }
+                                        ]
                                       },   
                                       {
                                         "name": "Deductions from Gross Income",
