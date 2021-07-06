@@ -112,17 +112,50 @@
                                       {
                                     "name": "Regular Corporate Income Tax",
                                     "details": "Changes",
-                                    "children":[]
+                                    "children":[
+                                       {
+                                        "name": "Before",
+                                         "details": "30%",
+                                        "children":[]
+                                      }, 
+                                       {
+                                        "name": "CREATE Law",
+                                         "details": "Starting July 1, 2020, 25%. Note: Taxable income deemed earned equally for each month of the year.",
+                                        "children":[]
+                                      }
+                                    ]
                                   }, 
                                       {
                                     "name": "Minimum Corporate Income Tax",
                                     "details": "Changes",
-                                    "children":[]
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "2%",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "1%, July 01,2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+                                    ]
                                   },   
                                   {
                                     "name": "Deductions from Gross Income",
                                     "details": "Changes",
-                                    "children":[]
+                                    "children":[
+                                                                             {
+                                        "name": "Before",
+                                         "details": "Non-deductible interest expense: 33% of interest income subject to final tax",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "Non deductible interest expense: 20% of II subj to final tax; Additional 50% deduction for labor training expense, subject to ff. conditions: 1) not to exceed 10% of direct labor wage, 2) covered by apprenticeship agreement, 3) supported by DepEd, TESDA, or CHED cert.",
+                                        "children":[]
+                                      }
+                                    ]
                                   },   
                                   {
                                     "name": "ROHQs",
