@@ -35,7 +35,7 @@
       "unit": {
         "type": "business",
         "value": "Business one"
-      }
+      } , "positionName": ""
     },
     {
       "name": "Non-Resident Foreign Corporations",
@@ -48,7 +48,8 @@
       "unit": {
         "type": "business",
         "value": "Business one"
-      }
+      },
+      "positionName": ""
     },
 
     {
@@ -62,7 +63,8 @@
       "unit": {
         "type": "business",
         "value": "Business one"
-      }
+      },
+      "positionName": ""
     },
     {
       "name": "Other Percentage Tax",
@@ -75,7 +77,8 @@
       "unit": {
         "type": "business",
         "value": "Business one"
-      }
+      },
+      "positionName": ""
     }
   ]
   
