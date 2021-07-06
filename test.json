@@ -1,13 +1,5 @@
 {
   "name": "CREATE Law",
-  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
-  "area": "",
-  "profileUrl": "http://example.com/employee/profile",
-  "office": "",
-  "unit": {
-    "type": "business",
-    "value": "Corporate Recovery and Tax Incentives for Enterprises"
-          },
   "positionName": "RA 11534 - Corporate Recovery and Tax Incentives for Enterprises",
   "children": [
             {
