@@ -35,7 +35,7 @@
       "unit": {
         "type": "business",
         "value": " "
-      } , "positionName": "Changes",
+    } , "positionName": "Changes",
       "children": [
         {
       "name": "Regular Corporate Income Tax",
@@ -47,7 +47,7 @@
       "unit": {
         "type": "business",
         "value": " "
-      } , "positionName": "Changes",
+        } , "positionName": "Changes",
       "children":[]
     }, 
         {
@@ -60,9 +60,11 @@
       "unit": {
         "type": "business",
         "value": " "
-      } , "positionName": "Changes",
+             } , 
+      "positionName": "Changes",
       "children":[]
-    },   {
+    },   
+    {
       "name": "Deductions from Gross Income",
       "area": "",
       "profileUrl": "http://www.google.com",
