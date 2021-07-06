@@ -267,18 +267,51 @@
               "children": [
                                      {
                                   "name": "Books, Any Newspaper, Magazine",
-                                  "details": "Changes",
-                                  "children":[]
+                                  "details": "Sale, importation, printing, or publication - Changes",
+                                  "children":[
+                                                                           {
+                                        "name": "Before",
+                                         "details": "Exempt provided it appears at regular intervals",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "1) Requirement to appear at regular intervals is removed 2) Digital or electronic format included in exemption 3) Journal or any educ. reading material covered by UNESCO agreemen inlcuded in exemption",
+                                        "children":[]
+                                      }
+                                  ]
                                 }, 
                                  {
-                                  "name": "Capital Equipment",
+                                  "name": "Capital Equipment, spare parts, raw meterials for COVID19",
                                   "details": "Changes",
-                                  "children":[]
+                                  "children":[
+                                                                           {
+                                        "name": "Before",
+                                         "details": "12% Value Added Tax",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "VAT Exempt, Jan. 1, 2021 to Dec. 31, 2023",
+                                        "children":[]
+                                      }
+                                  ]
                                 }, 
                                  {
                                   "name": "Prescription Drugs and Medicines",
-                                  "details": "Changes",
-                                  "children":[]
+                                  "details": "Sale or importation for cancer, mental illness, tuberculosis, and kidney diseases - Changes",
+                                  "children":[
+                                                                           {
+                                        "name": "Before",
+                                         "details": "VAT Exempt, Jan. 1, 2023",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "VAT Exempt, Jan. 1, 2021",
+                                        "children":[]
+                                      }
+                                  ]
                                 }
                           ]
             },
@@ -289,7 +322,18 @@
                                      {
                                   "name": "Persons Exempt from VAT",
                                   "details": "Changes",
-                                  "children":[]
+                                  "children":[
+                                                                           {
+                                        "name": "Before",
+                                         "details": "3%",
+                                        "children":[]
+                                      },
+                                                                             {
+                                        "name": "CREATE Law",
+                                         "details": "1%, July 01, 2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+                                  ]
                                         }
                             ]
             }
