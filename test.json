@@ -57,17 +57,51 @@
                                       {
                                         "name": "IAET",
                                          "details": "Improperly Accumulated Earnings Tax - Changes",
+                                        "children":[
+                                             {
+                                        "name": "Before",
+                                         "details": "10%",
                                         "children":[]
+                                      },
+                                         {
+                                        "name": "CREATE Law",
+                                         "details": "Repealed, July 01,2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+
+                                        ]
                                       },   
                                       {
                                         "name": "PEIH",
                                         "details": "Proprietary Educational Institutions and Hospitals - Changes",
+                                        "children":[
+                                             {
+                                        "name": "Before",
+                                         "details": "10% of Net taxable income",
                                         "children":[]
+                                      },
+                                         {
+                                        "name": "CREATE Law",
+                                         "details": "1% of net taxable income, July 01, 2020 to June 30, 2023",
+                                        "children":[]
+                                      }
+                                        ]
                                       },   
                                       {
                                         "name": "Intercorporate Dividends",
                                         "details": "Changes",
+                                        "children":[
+                                             {
+                                        "name": "Before",
+                                         "details": "Dividends from NRFC - 30% RCIT",
                                         "children":[]
+                                      },
+                                         {
+                                        "name": "CREATE Law",
+                                         "details": "Dividends from NRFC - exempt from income tax subject to the following conditions: 1) reinvestment in DC, 2) 20% or more ownership, 3) 2+ years holding period",
+                                        "children":[]
+                                      }
+                                        ]
                                       }
                       ]
                       },
