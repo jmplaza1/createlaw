@@ -36,36 +36,7 @@
                                           "value": " "
                                           } , 
                                           "positionName": "Changes",
-                                        "children":[
-                                          
-                                                     {
-                                        "name": "Before",
-                                        "area": "",
-                                        "profileUrl": "http://www.google.com",
-                                        "office": " ",
-                                        "tags": "Ceo,tag1, tag2",
-                                        "isLoggedUser": false,
-                                        "unit": {
-                                          "type": "business",
-                                          "value": " "
-                                          } , 
-                                          "positionName": "30%",
                                         "children":[]
-                                      },  {
-                                        "name": "CREATE Law",
-                                        "area": "",
-                                        "profileUrl": "http://www.google.com",
-                                        "office": " ",
-                                        "tags": "Ceo,tag1, tag2",
-                                        "isLoggedUser": false,
-                                        "unit": {
-                                          "type": "business",
-                                          "value": " "
-                                          } , 
-                                          "positionName": "Starting July 2020, 25% or 20%, subject to the following conditions: (1) Net taxable income is not more than P5M, and Total Assets not more than P100M",
-                                        "children":[]
-                                      }
-                                        ]
                                       }, 
                                           {
                                         "name": "Minimum Corporate Income Tax",
