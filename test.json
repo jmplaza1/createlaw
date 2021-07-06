@@ -10,311 +10,311 @@
   },
   "positionName": "RA 11534 - Corporate Recovery and Tax Incentives for Enterprises",
   "children": [
-    {
-      "name": "Domestic Corporations",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-      },
-      "positionName": "Changes ",
-      "children": [
-        {
-      "name": "Regular Corporate Income Tax",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-        {
-      "name": "Minimum Corporate Income Tax",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-             } , 
-      "positionName": "Changes",
-      "children":[]
-    },   
-    {
-      "name": "Deductions from Gross Income",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Changes",
-      "children":[]
-    },   
-    {
-      "name": "IAET",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Improperly Accumulated Earnings Tax - Changes",
-      "children":[]
-    },   
-    {
-      "name": "PEIH",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Proprietary Educational Institutions and Hospitals - Changes",
-      "children":[]
-    },   
-    {
-      "name": "Intercorporate Dividends",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Changes",
-      "children":[]
-    }
-      ]
-    },
-    {
-      "name": "Resident Foreign Corporations",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-    } , "positionName": "Changes",
-      "children": [
-        {
-      "name": "Regular Corporate Income Tax",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-        {
-      "name": "Minimum Corporate Income Tax",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-             } , 
-      "positionName": "Changes",
-      "children":[]
-    },   
-    {
-      "name": "Deductions from Gross Income",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Changes",
-      "children":[]
-    },   
-    {
-      "name": "ROHQs",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Changes",
-      "children":[]
-    },   
-    {
-      "name": "OBUs",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Changes",
-      "children":[]
-    },   
-    {
-      "name": "Final Tax on Passive Income",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-"positionName": "Changes",
-      "children":[]
-    }
-      ]
-    },
-    {
-      "name": "Non-Resident Foreign Corporations",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-      },
-      "positionName": "Changes",
-      "children": [ 
-        {
-      "name": "Regular Corporate Income Tax",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-     {
-      "name": "Final Tax on Passive Income",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
- {
-      "name": "Intercorporate Dividends",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-  ]
-    },
+            {
+              "name": "Domestic Corporations",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": " ",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "business",
+                "value": " "
+              },
+              "positionName": "Changes ",
+              "children": [
+                                          {
+                                        "name": "Regular Corporate Income Tax",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                        "unit": {
+                                          "type": "business",
+                                          "value": " "
+                                          } , "positionName": "Changes",
+                                        "children":[]
+                                      }, 
+                                          {
+                                        "name": "Minimum Corporate Income Tax",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                        "unit": {
+                                          "type": "business",
+                                          "value": " "
+                                               } , 
+                                        "positionName": "Changes",
+                                        "children":[]
+                                      },   
+                                      {
+                                        "name": "Deductions from Gross Income",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                  "positionName": "Changes",
+                                        "children":[]
+                                      },   
+                                      {
+                                        "name": "IAET",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                  "positionName": "Improperly Accumulated Earnings Tax - Changes",
+                                        "children":[]
+                                      },   
+                                      {
+                                        "name": "PEIH",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                  "positionName": "Proprietary Educational Institutions and Hospitals - Changes",
+                                        "children":[]
+                                      },   
+                                      {
+                                        "name": "Intercorporate Dividends",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+                                        "tags": "Ceo,tag1, tag2",
+                                        "isLoggedUser": false,
+                                  "positionName": "Changes",
+                                        "children":[]
+                                      }
+                                        ]
+                                      },
+            {
+              "name": "Resident Foreign Corporations",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": " ",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "business",
+                "value": " "
+            } , "positionName": "Changes",
+              "children": [
+                                      {
+                                    "name": "Regular Corporate Income Tax",
+                                    "area": "",
+                                    "profileUrl": "http://www.google.com",
+                                    "office": " ",
+                                    "tags": "Ceo,tag1, tag2",
+                                    "isLoggedUser": false,
+                                    "unit": {
+                                      "type": "business",
+                                      "value": " "
+                                      } , "positionName": "Changes",
+                                    "children":[]
+                                  }, 
+                                      {
+                                    "name": "Minimum Corporate Income Tax",
+                                    "area": "",
+                                    "profileUrl": "http://www.google.com",
+                                    "office": " ",
+                                    "tags": "Ceo,tag1, tag2",
+                                    "isLoggedUser": false,
+                                    "unit": {
+                                      "type": "business",
+                                      "value": " "
+                                           } , 
+                                    "positionName": "Changes",
+                                    "children":[]
+                                  },   
+                                  {
+                                    "name": "Deductions from Gross Income",
+                                    "area": "",
+                                    "profileUrl": "http://www.google.com",
+                                    "office": " ",
+                                    "tags": "Ceo,tag1, tag2",
+                                    "isLoggedUser": false,
+                              "positionName": "Changes",
+                                    "children":[]
+                                  },   
+                                  {
+                                    "name": "ROHQs",
+                                    "area": "",
+                                    "profileUrl": "http://www.google.com",
+                                    "office": " ",
+                                    "tags": "Ceo,tag1, tag2",
+                                    "isLoggedUser": false,
+                              "positionName": "Changes",
+                                    "children":[]
+                                  },   
+                                  {
+                                    "name": "OBUs",
+                                    "area": "",
+                                    "profileUrl": "http://www.google.com",
+                                    "office": " ",
+                                    "tags": "Ceo,tag1, tag2",
+                                    "isLoggedUser": false,
+                              "positionName": "Changes",
+                                    "children":[]
+                                  },   
+                                  {
+                                    "name": "Final Tax on Passive Income",
+                                    "area": "",
+                                    "profileUrl": "http://www.google.com",
+                                    "office": " ",
+                                    "tags": "Ceo,tag1, tag2",
+                                    "isLoggedUser": false,
+                              "positionName": "Changes",
+                                    "children":[]
+                                  }
+                                    ]
+                                  },
+            {
+              "name": "Non-Resident Foreign Corporations",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": " ",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "business",
+                "value": " "
+              },
+              "positionName": "Changes",
+              "children": [ 
+                                  {
+                                "name": "Regular Corporate Income Tax",
+                                "area": "",
+                                "profileUrl": "http://www.google.com",
+                                "office": " ",
+                                "tags": "Ceo,tag1, tag2",
+                                "isLoggedUser": false,
+                                "unit": {
+                                  "type": "business",
+                                  "value": " "
+                                  } , "positionName": "Changes",
+                                "children":[]
+                              }, 
+                               {
+                                "name": "Final Tax on Passive Income",
+                                "area": "",
+                                "profileUrl": "http://www.google.com",
+                                "office": " ",
+                                "tags": "Ceo,tag1, tag2",
+                                "isLoggedUser": false,
+                                "unit": {
+                                  "type": "business",
+                                  "value": " "
+                                  } , "positionName": "Changes",
+                                "children":[]
+                              }, 
+                           {
+                                "name": "Intercorporate Dividends",
+                                "area": "",
+                                "profileUrl": "http://www.google.com",
+                                "office": " ",
+                                "tags": "Ceo,tag1, tag2",
+                                "isLoggedUser": false,
+                                "unit": {
+                                  "type": "business",
+                                  "value": " "
+                                  } , "positionName": "Changes",
+                                "children":[]
+                              }
+          ]
+            },
 
-    {
-      "name": "Value Added Tax",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-      },
-      "positionName": "Changes",
-      "children": [
-         {
-      "name": "Books, Any Newspaper, Magazine",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-     {
-      "name": "Capital Equipment",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-     {
-      "name": "Prescription Drugs and Medicines",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-      ]
-    },
-    {
-      "name": "Other Percentage Tax",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-      },
-      "positionName": "Changes",
-      "children": [
-         {
-      "name": "Persons Exempt from VAT",
-      "area": "",
-      "profileUrl": "http://www.google.com",
-      "office": " ",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": " "
-        } , "positionName": "Changes",
-      "children":[]
-    }, 
-      ]
-    }
-  ]
-  
+            {
+              "name": "Value Added Tax",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": " ",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "business",
+                "value": " "
+              },
+              "positionName": "Changes",
+              "children": [
+                                     {
+                                  "name": "Books, Any Newspaper, Magazine",
+                                  "area": "",
+                                  "profileUrl": "http://www.google.com",
+                                  "office": " ",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "business",
+                                    "value": " "
+                                    } , "positionName": "Changes",
+                                  "children":[]
+                                }, 
+                                 {
+                                  "name": "Capital Equipment",
+                                  "area": "",
+                                  "profileUrl": "http://www.google.com",
+                                  "office": " ",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "business",
+                                    "value": " "
+                                    } , "positionName": "Changes",
+                                  "children":[]
+                                }, 
+                                 {
+                                  "name": "Prescription Drugs and Medicines",
+                                  "area": "",
+                                  "profileUrl": "http://www.google.com",
+                                  "office": " ",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "business",
+                                    "value": " "
+                                    } , "positionName": "Changes",
+                                  "children":[]
+                                }
+                          ]
+            },
+            {
+              "name": "Other Percentage Tax",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": " ",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "business",
+                "value": " "
+              },
+              "positionName": "Changes",
+              "children": [
+                                     {
+                                  "name": "Persons Exempt from VAT",
+                                  "area": "",
+                                  "profileUrl": "http://www.google.com",
+                                  "office": " ",
+                                  "tags": "Ceo,tag1, tag2",
+                                  "isLoggedUser": false,
+                                  "unit": {
+                                    "type": "business",
+                                    "value": " "
+                                          } , 
+                                  "positionName": "Changes",
+                                  "children":[]
+                                        }, 
+                            ]
+            }
+          ]
 }
