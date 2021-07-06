@@ -3,9 +3,7 @@
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
   "area": "Corporate",
   "profileUrl": "http://example.com/employee/profile",
-  "office": "CTO office",
-  "tags": "Ceo,tag1,manager,cto",
-  "isLoggedUser": false,
+  "office": "",
   "unit": {
     "type": "business",
     "value": "Corporate Recovery and Tax Incentives for Enterprises"
