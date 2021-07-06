@@ -49,8 +49,20 @@
         "value": " "
       } , "positionName": "Changes",
       "children":[]
+    }, 
+        {
+      "name": "Minimum Corporate Income Tax",
+      "area": "",
+      "profileUrl": "http://www.google.com",
+      "office": " ",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": " "
+      } , "positionName": "Changes",
+      "children":[]
     }
-
       ]
     },
     {
