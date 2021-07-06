@@ -8,7 +8,7 @@
   "isLoggedUser": false,
   "unit": {
     "type": "business",
-    "value": "Business first"
+    "value": ""
   },
   "positionName": "RA 11534 ",
   "children": [
@@ -199,50 +199,6 @@
                                   },
                                   "positionName": "Ios Developer",
                                   "size": 2023
-                                }
-                              ]
-                            },
-                            {
-                              "name": "Sven Petersen",
-                              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                              "area": "Corporate",
-                              "profileUrl": "http://example.com/employee/profile",
-                              "office": "CEO office",
-                              "tags": "Ceo,tag1, tag2",
-                              "isLoggedUser": false,
-                              "unit": {
-                                "type": "department",
-                                "value": "Finance Department"
-                              },
-                              "positionName": "Senior Developer",
-                              "children": [
-                                {
-                                  "name": "Current User",
-                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/bean.png",
-                                  "area": "Corporate",
-                                  "profileUrl": "http://example.com/employee/profile",
-                                  "office": "CEO office",
-                                  "tags": "Ceo,tag1, tag2",
-                                  "isLoggedUser": false,
-                                  "unit": {
-                                    "type": "department",
-                                    "value": "Finance Department"
-                                  },
-                                  "positionName": "Web Developer"
-                                },
-                                {
-                                  "name": "Beate Vileid",
-                                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                                  "area": "Corporate",
-                                  "profileUrl": "http://example.com/employee/profile",
-                                  "office": "CEO office",
-                                  "tags": "Ceo,tag1, tag2",
-                                  "isLoggedUser": false,
-                                  "unit": {
-                                    "type": "department",
-                                    "value": "Finance Department"
-                                  },
-                                  "positionName": "Junior Developer"
                                 }
                               ]
                             }
