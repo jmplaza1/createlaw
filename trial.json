@@ -1,19 +1,19 @@
 {
-      "name": "Domestic Corporations",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": "Business one"
+  "name": "CREATE Law",
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+  "area": "Corporate",
+  "profileUrl": "http://example.com/employee/profile",
+  "office": "CTO office",
+  "tags": "Ceo,tag1,manager,cto",
+  "isLoggedUser": false,
+  "unit": {
+    "type": "business",
+    "value": "Business first"
   },
-  "positionName": "Act 11534",
+  "positionName": "RA 15534 ",
   "children": [
     {
-      "name": "Domestic Corporations",
+      "name": "Davolio Nancy",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -24,10 +24,10 @@
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "Trial",
+      "positionName": "CTO ",
       "children": [
         {
-          "name": "RCIT",
+          "name": " Leverling Janet",
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
           "area": "Corporate",
           "profileUrl": "http://example.com/employee/profile",
@@ -54,7 +54,37 @@
                 "value": "Finance Department"
               },
               "positionName": "CTO ",
-              
+              "children": [
+                {
+                  "name": "Peter Wilson",
+                  "isLoggedUser": false,
+                  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                  "area": "Corporate",
+                  "profileUrl": "http://example.com/employee/profile",
+                  "office": "CEO office",
+                  "tags": "Ceo,tag1, tag2",
+                  "unit": {
+                    "type": "department",
+                    "value": "Finance Department"
+                  },
+                  "positionName": "Head of channels",
+                  "children": [
+                    {
+                      "name": " Lars Peterson",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Corporate",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "CEO office",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "department",
+                        "value": "Finance Department"
+                      },
+                      "positionName": "Anakyst Developer"
+                    }
+                  ]
+                },
                 {
                   "name": "Carlos Diaz",
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
