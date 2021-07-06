@@ -1,7 +1,7 @@
 {
   "name": "CREATE Law",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
-  "area": "Corporate",
+  "area": "",
   "profileUrl": "http://example.com/employee/profile",
   "office": "",
   "unit": {
@@ -13,7 +13,7 @@
     {
       "name": "Domestic Corporations",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -27,7 +27,7 @@
     {
       "name": "Resident Foreign Corporations",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -40,7 +40,7 @@
     {
       "name": "Non-Resident Foreign Corporations",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -54,7 +54,7 @@
     {
       "name": "Value Added Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -67,7 +67,7 @@
     {
       "name": "Other Percentage Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
+      "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
