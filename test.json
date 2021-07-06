@@ -95,7 +95,7 @@
     },
     {
       "name": "Resident Foreign Corporations",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "imageUrl": "",
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
@@ -203,7 +203,7 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]
-    }, 
+     }, 
      {
       "name": "Final Tax on Passive Income",
       "area": "",
@@ -217,7 +217,7 @@
         } , "positionName": "Changes",
       "children":[]
     }, 
- {
+    {
       "name": "Intercorporate Dividends",
       "area": "",
       "profileUrl": "http://www.google.com",
@@ -229,9 +229,8 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]}
-  ]
+    ]
     },
-
     {
       "name": "Value Added Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -284,9 +283,9 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]
-    } 
-      ]
-    },
+    }]
+    }
+    ,
 
     {
       "name": "Other Percentage Tax",
