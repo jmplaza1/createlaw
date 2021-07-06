@@ -24,10 +24,9 @@
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "CTO ",
-      "children": [],
-    }
-          {
+      "positionName": "CTO "
+    },
+    {
       "name": "Foreign Corporations",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
@@ -39,5 +38,7 @@
         "type": "business",
         "value": "Business one"
       }
-    
+    }
+  ]
+  
 }
