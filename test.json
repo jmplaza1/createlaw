@@ -27,7 +27,47 @@
       "positionName": "CTO "
     },
     {
-      "name": "Foreign Corporations",
+      "name": "Resident Foreign Corporations",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business one"
+      }
+    },
+    {
+      "name": "Non-Resident Foreign Corporations",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business one"
+      }
+    },
+
+    {
+      "name": "Value Added Tax",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "business",
+        "value": "Business one"
+      }
+    },
+    {
+      "name": "Other Percentage Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
