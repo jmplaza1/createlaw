@@ -62,7 +62,7 @@
                                           "type": "business",
                                           "value": " "
                                           } , 
-                                          "positionName": "Starting July 2020, 25% or 20%, subject to the following conditions: (1) Net taxable income is not more than P5M, and Total Assets not more than P100M",
+                                          "positionName": "Starting July 2020, 25% or 20%, subject to the following conditions: (1) Net taxable income is not more than P5M, and (2) Total Assets not more than P100M",
                                         "children":[]
                                       }
                                         ]
@@ -118,7 +118,36 @@
                                         "tags": "Ceo,tag1, tag2",
                                         "isLoggedUser": false,
                                   "positionName": "Changes",
+                                        "children":[
+                                                                     {
+                                        "name": "Before",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+
+                                        "isLoggedUser": false,
+                                        "unit": {
+                                          "type": "business",
+                                          "value": " "
+                                               } , 
+                                        "positionName": "Non-deductible interest expense: 33% of interest income subject to final tax",
                                         "children":[]
+                                      },
+                                                                 {
+                                        "name": "CREATE Law",
+                                        "area": "",
+                                        "profileUrl": "http://www.google.com",
+                                        "office": " ",
+
+                                        "isLoggedUser": false,
+                                        "unit": {
+                                          "type": "business",
+                                          "value": " "
+                                               } , 
+                                        "positionName": "(1) Additional 50% deduction for labor training expense. (2) Non-deductible interest expense: 20% of interest income subject to final tax",
+                                        "children":[]
+                                      }
+                                        ]
                                       },   
                                       {
                                         "name": "IAET",
