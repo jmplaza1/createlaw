@@ -1,6 +1,6 @@
 {
   "name": "CREATE Law",
-  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+  "imageUrl": "",
   "area": "",
   "profileUrl": "http://example.com/employee/profile",
   "office": "",
@@ -12,7 +12,7 @@
   "children": [
     {
       "name": "Domestic Corporations",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "imageUrl": "",
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
