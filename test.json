@@ -1,6 +1,6 @@
 {
   "name": "CREATE Law",
-  "imageUrl": "",
+  "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
   "area": "",
   "profileUrl": "http://example.com/employee/profile",
   "office": "",
@@ -12,11 +12,11 @@
   "children": [
     {
       "name": "Domestic Corporations",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
-     // "tags": "Ceo,tag1, tag2",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -29,7 +29,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-    //  "tags": "Ceo,tag1, tag2",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Resident Foreign Corporations",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
@@ -105,8 +105,7 @@
         "type": "business",
         "value": " "
     } , "positionName": "Changes",
-      "children": 
-      [
+      "children": [
         {
       "name": "Regular Corporate Income Tax",
       "area": "",
@@ -119,7 +118,7 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]
-         }, 
+    }, 
         {
       "name": "Minimum Corporate Income Tax",
       "area": "",
@@ -189,8 +188,7 @@
         "value": " "
       },
       "positionName": "Changes",
-      "children": 
-      [ 
+      "children": [ 
         {
       "name": "Regular Corporate Income Tax",
       "area": "",
@@ -203,7 +201,7 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]
-     }, 
+    }, 
      {
       "name": "Final Tax on Passive Income",
       "area": "",
@@ -217,7 +215,7 @@
         } , "positionName": "Changes",
       "children":[]
     }, 
-    {
+ {
       "name": "Intercorporate Dividends",
       "area": "",
       "profileUrl": "http://www.google.com",
@@ -228,9 +226,11 @@
         "type": "business",
         "value": " "
         } , "positionName": "Changes",
-      "children":[]}
-    ]
+      "children":[]
+    }, 
+  ]
     },
+
     {
       "name": "Value Added Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -283,10 +283,9 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]
-    }]
-    }
-    ,
-
+    } 
+      ]
+    },
     {
       "name": "Other Percentage Tax",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
@@ -313,7 +312,7 @@
         "value": " "
         } , "positionName": "Changes",
       "children":[]
-    }
+    }, 
       ]
     }
   ]
