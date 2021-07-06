@@ -15934,7 +15934,7 @@
           ]
         },
         {
-          "name": "Carlos Diaz",
+          "name": "Non-Resident Foreign Corporations",
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Corporate",
           "profileUrl": "http://example.com/employee/profile",
@@ -18007,7 +18007,7 @@
       "positionName": "CTO ",
       "children": [
         {
-          "name": "Peter Wilson",
+          "name": "Sale & Importation of Printing",
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Corporate",
@@ -18022,7 +18022,7 @@
           "positionName": "Head of channels",
           "children": [
             {
-              "name": " Lars Peterson",
+              "name": " Before",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
               "area": "Corporate",
               "profileUrl": "http://example.com/employee/profile",
@@ -18031,14 +18031,14 @@
               "isLoggedUser": false,
               "unit": {
                 "type": "department",
-                "value": "Insurance  Department"
+                "value": ""
               },
-              "positionName": "Anakyst Developer"
+              "positionName": "Before"
             }
           ]
         },
         {
-          "name": "Carlos Diaz",
+          "name": "After",
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Corporate",
           "profileUrl": "http://example.com/employee/profile",
