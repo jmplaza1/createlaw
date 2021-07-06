@@ -16,7 +16,7 @@
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
-     // "tags": " ",
+     // "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -29,7 +29,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-    //  "tags": " ",
+    //  "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -42,7 +42,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -56,7 +56,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Changes",
       "children":[]
@@ -66,7 +66,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Improperly Accumulated Earnings Tax - Changes",
       "children":[]
@@ -76,7 +76,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Proprietary Educational Institutions and Hospitals - Changes",
       "children":[]
@@ -86,7 +86,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Changes",
       "children":[]
@@ -99,7 +99,7 @@
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -112,7 +112,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -125,7 +125,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -139,7 +139,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Changes",
       "children":[]
@@ -149,7 +149,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Changes",
       "children":[]
@@ -159,7 +159,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Changes",
       "children":[]
@@ -169,7 +169,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
 "positionName": "Changes",
       "children":[]
@@ -182,7 +182,7 @@
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -196,7 +196,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -209,7 +209,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -222,7 +222,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -238,7 +238,7 @@
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -251,7 +251,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -264,7 +264,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -277,7 +277,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -294,7 +294,7 @@
       "area": "",
       "profileUrl": "http://example.com/employee/profile",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
@@ -307,7 +307,7 @@
       "area": "",
       "profileUrl": "http://www.google.com",
       "office": " ",
-      "tags": " ",
+      "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "business",
